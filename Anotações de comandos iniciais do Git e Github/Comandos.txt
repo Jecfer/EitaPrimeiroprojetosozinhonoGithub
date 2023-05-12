@@ -1,0 +1,13 @@
+Fala Gurizada, belê?
+
+Abaixo vou tentar escrever alguns comandos que aprendi no curso de GIt da DIO.
+
+cd - Mover entre os diretórios
+
+dir - listar no Windows
+ls - listar no linux
+
+mkdir -criar 
+rm - deletar
+
+uma duvida? é só comigo que da erro mesmo fazendo tudo igual ao video?
